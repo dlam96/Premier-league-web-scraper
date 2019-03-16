@@ -1,12 +1,13 @@
 # Premier-league-web-scraper
-## This purpose of this project was to familiarize myself more with web scraping using Selenium. It scraps data of the current 2018/2019 Premier League season. To view data set, please view the **__.ipynb file.__**
+## Introduction:
+This purpose of this project was to familiarize myself more with web scraping using Selenium. It scraps data of the current 2018/2019 Premier League season. To view data set, please view the **_.ipynb file._**
 
 ## Libraries used:
 *Selenium Webdriver
 *Pandas
 *Numpy
 
-## License
+## License:
 MIT License
 
 Copyright (c) [2019] [Daniel Lam]
